@@ -1,0 +1,19 @@
+@charset "utf-8";
+/* Text color */
+.colr																		{color:#df8300 !important;}
+.txthover:hover																{color:#df8300 !important;}
+.backcolr																	{background-color:#df8300 !important;}
+.backcolrhover:hover														{background-color:#df8300 !important;}
+.backcolrdark																{background-color:#df8300 !important; background-image:url(../images/black.png);}
+.bordercolr																	{border-color:#df8300 !important;}
+.bordercolrover:hover														{border-color:#df8300 !important;}
+/* Navigation */
+.ddsmoothmenu ul li ul li ul li a:hover										{background-color:#df8300 !important;}
+.ddsmoothmenu ul li a:hover, 
+.ddsmoothmenu ul li.current-menu-item a, .ddsmoothmenu ul li a.selected 	{background-color:#df8300;}
+
+.wp-calendar ul.dates li a:hover											{background-color:#df8300;}
+.breadcrumb ul li a:hover													{color:#df8300;}
+.fc-header 																	{background-color:#df8300;}
+.fc-event-skin																{background-color:#df8300;}
+.sermons-list ul li:hover .sermon-detail h4 a								{color:#df8300;}
